@@ -1,1 +1,14 @@
+# Ignore the slprj and simCache folders
 slprj/
+simCache/
+
+# Ignore backup and autosave files
+*.asv
+*.bak
+
+# Ignore MATLAB project files
+*.prj
+
+# Ignore MATLAB preference files
+*.mex*
+
